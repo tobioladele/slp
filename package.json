@@ -1,0 +1,53 @@
+{
+    "name": "DSTemplateKit",
+    "version": "1.0.0",
+    "description": "Delivery Science AngularJs, Html5, Template Kit",
+    "scripts": {
+        "start": "grunt"
+    },
+    "keywords": [
+        "DS",
+        "AngularJS",
+        "admin",
+        "admin",
+        "dashboard",
+        "admin",
+        "panel",
+        "app",
+        "charts",
+        "components",
+        "flat",
+        "flat",
+        "ui",
+        "responsive",
+        "responsive",
+        "layout",
+        "ui",
+        "kit",
+        "ui",
+        "route",
+        "web",
+        "app",
+        "widgets"
+    ],
+    "repository": "git@bitbucket.org:dsninjas/dstemplatekit.git",
+    "author": "Chuka Ofili",
+    "license": "None",
+    "dependencies": {
+        "include-all": "^0.1.6"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-concurrent": "^1.0.0",
+        "grunt-contrib-clean": "^0.6.0",
+        "grunt-contrib-concat": "^0.5.0",
+        "grunt-contrib-copy": "^0.5.0",
+        "grunt-contrib-cssmin": "^0.12.1",
+        "grunt-contrib-htmlmin": "^0.3.0",
+        "grunt-contrib-less": "^1.0.0",
+        "grunt-contrib-uglify": "^0.5.1",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-json-server": "^0.1.1",
+        "grunt-sails-linker": "^0.10.1"
+    }
+}
